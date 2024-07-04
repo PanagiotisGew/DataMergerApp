@@ -56,3 +56,6 @@ python folder_merger_gui.py
 
 ## Contributing
 Feel free to submit issues or pull requests if you find any bugs or have feature requests. Contributions are welcome!
+
+![image](https://github.com/PanagiotisGew/DatasetMergerApp/assets/147500010/4918aeb9-a6dc-47ce-bb6b-9451b3df450a)
+
