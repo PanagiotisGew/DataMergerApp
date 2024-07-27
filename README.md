@@ -5,6 +5,7 @@ Folder Merger GUI is a Python-based application that provides a user-friendly in
 
 ## Features
 •Graphical User Interface (GUI): Easy-to-use interface for selecting folders and subfolders.
+
 •Subfolder Selection: Allows selecting specific subfolders to merge from each directory.
 •Select All Option: Option to select or deselect all subfolders.
 •Custom Folder Name: Users can specify the name of the merged folder.
