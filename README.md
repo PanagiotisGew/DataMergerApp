@@ -1,7 +1,7 @@
-# Data MergerApp
+# Data Merger App
  
 ## Overview
-Data MergerApp is a Python-based application that provides a user-friendly interface for merging subfolders from multiple directories into a single destination folder. The application allows users to select folders, choose subfolders to include, and manage the merging process efficiently. The merged folder is created on the user's desktop with an option to rename subfolders to avoid conflicts.
+Data Merger App is a Python-based application that provides a user-friendly interface for merging subfolders from multiple directories into a single destination folder. The application allows users to select folders, choose subfolders to include, and manage the merging process efficiently. The merged folder is created on the user's desktop with an option to rename subfolders to avoid conflicts.
 
 ## Features
 •Graphical User Interface (GUI): Easy-to-use interface for selecting folders and subfolders.
