@@ -1,7 +1,7 @@
-# Data Merger App
+# Data MergerApp
  
 ## Overview
-Data Merger App is a Python-based application that provides a user-friendly interface for merging subfolders from multiple directories into a single destination folder. The application allows users to select folders, choose subfolders to include, and manage the merging process efficiently. The merged folder is created on the user's desktop with an option to rename subfolders to avoid conflicts.
+DataMergerApp is a Python-based application that provides a user-friendly interface for merging subfolders from multiple directories into a single destination folder. The application allows users to select folders, choose subfolders to include, and manage the merging process efficiently. The merged folder is created on the user's desktop with an option to rename subfolders to avoid conflicts.
 
 ## Features
 •Graphical User Interface (GUI): Easy-to-use interface for selecting folders and subfolders.
@@ -52,7 +52,7 @@ python folder_merger_gui.py
 •Refresh: Click "Refresh" to restart the process if needed.
 
 ## Code Explanation
-### Class FolderMergerGUI
+### Class DataMergerApp
 
 •init(self, master): Initializes the main application window, sets up styles, and creates the main frame and canvas for scrolling.
 
@@ -81,7 +81,7 @@ python folder_merger_gui.py
 •redraw(self): Redraws the canvas and recenters the content.
 
 ## Main Function
-•main(): Initializes the Tkinter root and the FolderMergerGUI application, ensuring the content is centered initially.
+•main(): Initializes the Tkinter root and the DatMergerApp, ensuring the content is centered initially.
 
 ## Contributing
 Feel free to submit issues or pull requests if you find any bugs or have feature requests. Contributions are welcome!
